@@ -28,12 +28,7 @@ setInterval(() => {
 }, 1000);
 
 
-// // using setTimeout method
-//     setTimeout(()=>{
-//         clock()
-//     },1000)
-// }
-//  clock();  
+
 
 
 
